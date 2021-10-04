@@ -1,4 +1,13 @@
-### Hi there 👋
+### Aurore de Amaral 🤓
+
+Welcome to my GitHub page ! Here you will find all my contributions and my "geeky" projects !
+
+- 💻 Working as a fullstack developer
+- 🌱 Learning on vocal assistant & chatbots
+
+📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/aurore-de-amaral/)
+
+#### 🧵 Find me on [Instagram](https://www.instagram.com/aurore_perles/) and discover all my beading/embroidery skills !
 
 <!--
 **auroredea/auroredea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
