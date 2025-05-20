@@ -1,6 +1,6 @@
 ### Aurore de Amaral 🤓
 
-Welcome to my GitHub page ! 💻 Working as a fullstack developer
+Welcome to my GitHub page ! 💻 Working as a frontend developer
 
 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/aurore-de-amaral/)
 
