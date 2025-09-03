@@ -4,8 +4,6 @@ Welcome to my GitHub page ! 💻 Working as a frontend developer
 
 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/aurore-de-amaral/)
 
-📖 You can read my tech articles on [my medium space](https://medium.deamaral.fr) !
-
 <!--
 **auroredea/auroredea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
